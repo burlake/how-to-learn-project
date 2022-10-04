@@ -26,13 +26,13 @@
   height: 32px;}
 
 .header__title{
-  width: 730px;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-self: center;
   font-size: 102px;
   font-weight: 600px;
   line-height: 96px;
+  width: 730px;
   margin-left: 64px;
 }
 
