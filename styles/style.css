@@ -16,16 +16,13 @@
   /* выше установили ограничения для секции */
   background-color: #f2f2f2;
   position: relative;
-  margin: 0 auto;
-  padding: 0 auto;
   display: flex;
 }
 
 .logo_place_header{
   position: absolute;
   top: 30px;
-  left: 64px;
-  z-index: 2;
+  right: 64px;
   width: 32px;
   height: 228px;
 }
@@ -35,7 +32,6 @@
   top: 30px;
   left: 64px;
   width: 730px;
-  z-index: 2;
   justify-content: center;
   align-items: center;
   font-size: 102px;
