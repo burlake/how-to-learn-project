@@ -28,7 +28,7 @@
 .header__title{
   display: flex;
   flex-direction: column;
-  align-self: center;
+  align-items: center;
   font-size: 102px;
   font-weight: 600px;
   line-height: 96px;
