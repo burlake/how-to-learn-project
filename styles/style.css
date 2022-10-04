@@ -31,7 +31,8 @@
   font-weight: 600px;
   line-height: 96px;
   width: 730px;
-  margin-left: 64px;
+  margin: 0 0 0 64px;
+
 }
 
 .header__subtitle{
@@ -45,6 +46,7 @@
 }
 header__link {
   text-decoration: none;
+  text-decoration-color: #2f80ed;
 }
 .header__main-illustration {
   height: 608px;
@@ -63,4 +65,7 @@ header__link {
   position: absolute;
   top: 64px;
   right: 0px;
+}
+.two-columns{
+
 }
