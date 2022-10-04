@@ -44,7 +44,7 @@
   font-weight: normal;
   line-height:25px;
 }
-header__link {
+.header__link {
   text-decoration: none;
   text-decoration-color: #2f80ed;
 }
