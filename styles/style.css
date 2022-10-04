@@ -66,10 +66,8 @@
   top: 64px;
   right: 0px;
 }
-.description{
-  /* delet after*/
+.description {
   min-height: 600px;
   max-height: 756px;
   background-color: #2f80ed;
-  /* delet after*/
 }
