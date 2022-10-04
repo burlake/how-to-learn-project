@@ -30,6 +30,7 @@
   top: 30px;
   left: 64px;
   width: 730px;
+  display: flex;
   justify-content: center;
   align-items: center;
   font-size: 102px;
@@ -37,9 +38,8 @@
   line-height: 96px;
 }
 
-.hader__subtitle{
+.header__subtitle{
   position: absolute;
-  z-index: 2;
   bottom: 30px;
   left: 64px;
   width: 338px;
@@ -47,12 +47,6 @@
   font-size: 18px;
   font-weight: normal;
   line-height:25px;
-}
-
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
 }
 
 /* и элемента с модификатором вида ключ-значение */
