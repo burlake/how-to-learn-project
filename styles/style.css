@@ -26,6 +26,7 @@
   height: 32px;}
 
 .header__title{
+  position: absolute;
   top: 30px;
   left: 64px;
   width: 730px;
@@ -38,7 +39,6 @@
 
 .hader__subtitle{
   position: absolute;
-
   z-index: 2;
   bottom: 30px;
   left: 64px;
