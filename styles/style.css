@@ -19,14 +19,6 @@
   display: flex;
 }
 
-.logo_place_header{
-  position: absolute;
-  top: 30px;
-  right: 64px;
-  width: 32px;
-  height: 228px;
-}
-
 .header__title{
   position: absolute;
   top: 30px;
