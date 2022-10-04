@@ -66,4 +66,7 @@
   min-height: 600px;
   max-height: 756px;
   background-color: #2f80ed;
+  position: relative;
+  display: flex;
+  align-items: center;
 }
