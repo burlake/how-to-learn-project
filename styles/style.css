@@ -67,8 +67,6 @@
   background-color: #2f80ed;
   position: relative;
   display: flex;
-  padding-top: 100px;
-  padding-bottom: 100px;
 }
 
 .description__two-columns-brif {
@@ -78,6 +76,8 @@
   font-size: 18px;
   font-weight: normal;
   align-items: flex-start;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .description__two-columns-main-text {
@@ -86,6 +86,8 @@ width: 80%;
 min-width: 784px;
 align-items: center;
 justify-content: space-between;
+padding-top: 100px;
+padding-bottom: 100px;
 }
 
 .description__two-columns-paragraph {
