@@ -63,8 +63,6 @@
 }
 
 .description {
-  padding-top: 100px;
-  padding-bottom: 100px;
   width: 80%;
   background-color: #2f80ed;
   position: relative;
@@ -83,6 +81,8 @@
 
 .description__two-columns-main-text {
 flex-direction: column;
+padding-top: 100px;
+padding-bottom: 100px;
 }
 
 .description__two-columns-paragraph {
