@@ -68,7 +68,7 @@
   position: relative;
   display: flex;
   align-items: center;
-  justify-self: center;
+  justify-self: space-around;
 }
 
 .description__two-columns-brif {
