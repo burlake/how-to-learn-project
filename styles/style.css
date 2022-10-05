@@ -67,6 +67,8 @@
   background-color: #2f80ed;
   position: relative;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .description__two-columns-brif {
