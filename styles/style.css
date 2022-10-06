@@ -133,11 +133,11 @@ font-weight: 600;
 }
 
 .feynman__image {
-height: 637px;
-width: 867px;
-position: absolute;
-left: 0;
-bottom: 0;
+  position: absolute;
+  height: 637px;
+  width: 867px;
+  left: 0;
+  bottom: 0;
 }
 
 .kaufman{
