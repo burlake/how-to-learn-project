@@ -69,9 +69,6 @@
   min-height: 600px;
   max-height: 756px;
   position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
   margin: 0;
   padding-top: 100px;
   padding-bottom: 100px;
@@ -82,6 +79,7 @@
   min-width: 784px;
   align-items: center;
   justify-content: space-between;
+  position: absolute;
   }
 
 .description__two-columns-brif {
@@ -94,6 +92,7 @@
   position: absolute;
   top: 0px;
   left: 0px;
+  position: absolute;
 }
 
 
@@ -102,6 +101,7 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+  position: absolute;
 }
 
 .description__two-columns-span-accent {
@@ -111,6 +111,7 @@
   font-size: 24px;
   font-weight: 600;
   align-items: center;
+  position: absolute;
 }
 .digits {
   height: 100vh;
@@ -123,6 +124,7 @@
   margin: 0;
   padding-top: 100px;
   padding-bottom: 100px;
+
 }
 
 .feynman{
