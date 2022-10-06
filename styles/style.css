@@ -62,10 +62,11 @@
 }
 
 .two-columns {
-  justify-content: center;
-  align-items: center;
-  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
   width: 80%;
+  min-width: 784px;
   padding-top: 100px;
   padding-bottom: 100px;
 }
