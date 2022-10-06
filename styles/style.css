@@ -66,6 +66,7 @@
   justify-content: space-between;
   margin: 0 auto;
   width: 80%;
+  min-width: 784px;
   padding-top: 100px;
   padding-bottom: 100px;
 }
@@ -75,8 +76,6 @@
   position: relative;
   margin: 0 auto;
   width: 80%;
-  min-width: 784px;
-  align-items: flex-start;
 }
 
 .two-columns__brif {
@@ -86,6 +85,7 @@
   text-decoration-color: #2f80ed;
   width: 177px;
   margin: 0;
+  align-items: flex-start;
 }
 
 .two-columns__paragraph {
