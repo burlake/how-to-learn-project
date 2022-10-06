@@ -112,7 +112,54 @@
   font-weight: 600;
   align-items: center;
 }
-digits {
-
+.digits {
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
+.feynman{
+  height: 100vh;
+    min-height: 600px;
+    max-height: 756px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.kaufman{
+  height: 100vh;
+    min-height: 600px;
+    max-height: 756px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.footer{
+  height: 100vh;
+    min-height: 600px;
+    max-height: 756px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
