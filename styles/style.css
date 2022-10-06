@@ -114,54 +114,18 @@
   position: absolute;
 }
 .digits {
-  height: 100vh;
-  min-height: 600px;
-  max-height: 756px;
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin: 0;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  height: 300px;
 
 }
 
 .feynman{
-  height: 100vh;
-    min-height: 600px;
-    max-height: 756px;
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 0;
-    padding-top: 100px;
-    padding-bottom: 100px;
+  height: 300px;
 }
 
 .kaufman{
-  height: 100vh;
-    min-height: 600px;
-    max-height: 756px;
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 0;
-    padding-top: 100px;
-    padding-bottom: 100px;
+  height: 300px;
 }
 
 .footer{
-  height: 100vh;
-    min-height: 600px;
-    max-height: 756px;
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 0;
-    padding-top: 100px;
-    padding-bottom: 100px;
+  height: 300px;
 }
