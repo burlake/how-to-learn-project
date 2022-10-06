@@ -64,9 +64,10 @@
   right: 0px;
 }
 
-.description {
+.description__two-columns {
   display: flex;
   justify-content: space-between;
+  width: 80%;
 }
 
 .description__two-columns-brif {
