@@ -75,6 +75,7 @@
   position: relative;
   margin: 0 auto;
   width: 80%;
+  min-width: 784px;
   align-items: flex-start;
 }
 
@@ -83,7 +84,8 @@
   font-size: 18px;
   font-weight: normal;
   text-decoration-color: #2f80ed;
-  align-items: stretch;
+  width: 177px;
+  margin: 0;
 }
 
 .two-columns__paragraph {
