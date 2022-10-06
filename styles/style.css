@@ -64,14 +64,13 @@
 .two-columns {
   position: relative;
   margin: 0;
-  display: flex;
-  align-items: center;
   width: 80%;
   min-width: 784px;
 }
 
 .two-columns__main-text {
-
+  display: flex;
+  align-items: center;
 }
 
 .two-columns__brif {
