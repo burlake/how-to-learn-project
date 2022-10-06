@@ -131,10 +131,10 @@ font-weight: 600;
   font-size: 36px;
   font-weight: normal;
 }
-}
+
 .feynman__image {
-height: 867px;
-width: 637px;
+height: 637px;
+width: 867px;
 position: absolute;
 left: 0;
 bottom: 0;
