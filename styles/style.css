@@ -64,13 +64,13 @@
   right: 0px;
 }
 
-.description__two-columns {
+.two-columns {
   min-height: 600px;
   max-height: 756px;
   position: relative;
   margin: 0;
 
-.description__two-columns-main-text {
+.two-columns__main-text {
   flex-direction: column;
   width: 80%;
   align-items: center;
@@ -78,7 +78,7 @@
   position: absolute;
   }
 
-.description__two-columns-brif {
+.two-columns__brif {
   color: #2f80ed;
   width: 175px;
   line-height: 1,2;
@@ -90,14 +90,14 @@
   left: 0px;
 }
 
-.description__two-columns-paragraph {
+.two-columns__paragraph {
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
   position: absolute;
 }
 
-.description__two-columns-span-accent {
+.two-columns__span-accent {
   font-weight: bold;
   padding: 30px;
   line-height: 34px;
