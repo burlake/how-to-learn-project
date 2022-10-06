@@ -65,11 +65,13 @@
 }
 
 .description__two-columns {
-  margin: 0 auto;
+  position: relative;
+  margin: 0px;
+  margin-top: 100px;
+  margin-bottom: 100px;
   display: flex;
   justify-content: space-between;
   width: 80%;
-  position: relative;
 }
 
 .description__two-columns-brif {
@@ -108,3 +110,7 @@
   font-weight: 600;
   align-items: center;
 }
+digits {
+
+}
+
