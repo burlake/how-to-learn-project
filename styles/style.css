@@ -68,6 +68,7 @@
   padding-top: 100px;
   padding-bottom: 100px;
   justify-content: center;
+  align-items: center;
 }
 
 .two-columns__main-text {
