@@ -65,18 +65,14 @@
 }
 
 .description__two-columns {
-  height: 100vh;
   min-height: 600px;
   max-height: 756px;
   position: relative;
   margin: 0;
-  padding-top: 100px;
-  padding-bottom: 100px;
 
 .description__two-columns-main-text {
   flex-direction: column;
   width: 80%;
-  min-width: 784px;
   align-items: center;
   justify-content: space-between;
   position: absolute;
@@ -92,7 +88,6 @@
   position: absolute;
   top: 0px;
   left: 0px;
-  position: absolute;
 }
 
 
