@@ -71,7 +71,8 @@
 }
 
 .two-columns__main-text {
-  display: inline-flex;
+  display: flex;
+  flex-direction: row;
   position: relative;
   margin: 0 auto;
   width: 80%;
