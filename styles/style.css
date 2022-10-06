@@ -65,12 +65,14 @@
 }
 
 .description__two-columns {
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
   width: 80%;
   position: relative;
   align-items: center;
-  margin: 0;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .description__two-columns-brif {
@@ -80,13 +82,6 @@
   font-size: 18px;
   font-weight: normal;
   align-items: flex-start;
-  padding-top: 100px;
-  padding-bottom: 100px;
-
-  position: absolute;
-  bottom: center;
-  right: center;
-
 }
 
 .description__two-columns-main-text {
