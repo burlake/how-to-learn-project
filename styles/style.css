@@ -66,7 +66,6 @@
   margin: 0;
   display: flex;
   align-items: center;
-  flex-direction: column;
   width: 80%;
   min-width: 784px;
 }
@@ -80,6 +79,7 @@
   font-size: 18px;
   font-weight: normal;
   text-decoration-color: #2f80ed;
+  flex-direction: column;
 }
 
 .two-columns__paragraph {
