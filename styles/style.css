@@ -63,13 +63,17 @@
 
 .two-columns {
   position: relative;
+  display: flex;
+  justify-content: space-between;
   margin: 0;
   width: 80%;
-  min-width: 784px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .two-columns__main-text {
-  display: flex;
+  margin: 0 auto;
+  width: 80%;
   align-items: center;
 }
 
@@ -78,7 +82,7 @@
   font-size: 18px;
   font-weight: normal;
   text-decoration-color: #2f80ed;
-  flex-direction: column;
+  margin: 0 auto;
 }
 
 .two-columns__paragraph {
@@ -86,10 +90,7 @@
   font-size: 24px;
   font-weight: normal;
   display: flex;
-  align-items: center;
-  flex-direction: column;
-  align-items: flex-end;
-  justify-content: space-between;
+  margin: 0 0 30px 0;
  }
  
 .two-columns__span-accent{
