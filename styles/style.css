@@ -83,6 +83,10 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
  }
  
 .two-columns__span-accent{
