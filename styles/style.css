@@ -72,8 +72,6 @@
 }
 
 .two-columns__main-text {
-  flex-direction: row;
-  position: relative;
   margin: 0 auto;
   width: 80%;
 }
