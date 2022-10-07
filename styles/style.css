@@ -120,17 +120,13 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 0 -5px;
 }
 
 .table__cell{
   padding-bottom: 20px;
   list-style: none;
-  padding: 0;
   background: gray;
   width: 250px;
-  height: 50px;
-  margin: 0 5px;
 
 }
 
