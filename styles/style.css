@@ -99,8 +99,38 @@
   font-size: 24px;
   font-weight: 600;
 }
-.digits {
 
+.digits{
+  margin: 0 auto;
+}
+.section-title {
+  width: 60%;
+  padding-top: 100px;
+  padding-bottom: 20px;
+}
+
+.section-subtitle{
+  width: 60%;
+}
+
+.table{
+  padding-top: 60px;
+  margin-bottom: 100px;
+  width: 1100px;
+}
+
+.table__cell{
+  width: 250px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.table__heading{}
+
+.table__text{
+  padding-bottom: 20px;
 }
 
 .feynman{
@@ -143,6 +173,17 @@ font-weight: 600;
 .kaufman{
 
 }
+
+
+
+
+
+
+
+
+
+
+
 
 .footer{
 
