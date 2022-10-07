@@ -182,4 +182,6 @@ font-weight: 600;
   justify-content: center;
   max-width: 1330px;
   min-width: 1280px;
+  list-style: none;
+  flex-wrap: wrap;
 }
