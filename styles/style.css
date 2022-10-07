@@ -137,7 +137,6 @@
 .feynman{
 position: relative;
 height: 890px;
-padding: 100px;
 }
 .feynman__title {
 margin: 0 auto;
@@ -163,12 +162,13 @@ font-weight: 600;
 }
 
 .feynman__image {
-  height: 637px;
-  width: 867px;
-  z-index: 1;
   position: absolute;
   bottom: 0px;
   left: 0px;
+  height: 637px;
+  width: 867px;
+  z-index: 1;
+ 
 }
 
 .kaufman{
