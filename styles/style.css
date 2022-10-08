@@ -281,7 +281,7 @@ align-content: center;
 }
 
 .kaufman__triangle{
-  position: relative;
+  position: absolute;
   top: 0;
   right: -210;
   z-index: -1;
