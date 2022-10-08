@@ -186,8 +186,6 @@ justify-content: center;
   line-height: 1.15;
   font-size: 120px;
   font-weight: 600;
-  display: flex;
-  justify-content: center;
   z-index: 1;
 }
 .feynman__subtitle {
