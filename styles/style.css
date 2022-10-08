@@ -312,14 +312,24 @@ align-content: center;
   position: relative;
 
 }
-.footer__column_copyright{}
+.footer__column_copyright{
+  position: absolute;
+  right: 0;
+}
+}
 
 .footer__column-content-info{
   list-style: none;
+  position: absolute;
+  right: 0;
+}
 }
 
 .footer__column-content-social{
   list-style: none;
+  position: absolute;
+  right: 0;
+}
 }
 
 .logo_place_footer{
@@ -333,8 +343,7 @@ align-content: center;
   left: 0;
 }
 .footer__column-heading{
-  position: absolute;
-  right: 0;
+ 
 }
 .footer__social-icon{
   text-decoration: none;
