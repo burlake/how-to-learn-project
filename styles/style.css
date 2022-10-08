@@ -206,4 +206,11 @@ font-weight: 600;
   min-width: 1280px;
   list-style: none;
   flex-wrap: wrap;
+
+.logo_place_footer{
+  position: absolute;
+  top: 60px;
+  width: 228px;
+  height: 32px;
+  margin: 0 auto;
 }
