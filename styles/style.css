@@ -336,15 +336,19 @@ align-content: center;
   position: absolute;
   bottom: 0;
   left: 0;
+  padding-top: 18px;
+  padding-left: 18px;
 }
 .footer__column-heading{
- 
+  padding-bottom: 20px;
 }
 .footer__social-icon{
   text-decoration: none;
   color: white;
+  padding-right: 10px;
 }
 .footer__column-links{
   text-decoration: none;
   color: white;
+  padding-bottom: 16px;
 }
