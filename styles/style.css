@@ -308,29 +308,26 @@ align-content: center;
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  color: white;
 
 }
-.footer__column_copyright{
-  color: white;
-}
+.footer__column_copyright{}
 
 .footer__column-content-info{
-  color: white;
 }
 
 .footer__column-content-social{
-  color: white;
 }
 
 .logo_place_footer{
-  color: white;
 }
 .footer__author{
-  color: white;
 }
 .footer__column-heading{
-  color: white;
 }
 .footer__social-icon{
-  color: white;
+  text-decoration: none;
+}
+.footer__column-links{
+  text-decoration: none;
 }
