@@ -307,8 +307,6 @@ align-content: center;
 }
 .footer__column_copyright{
   color: white;
-  position: absolute;
-  left: 0;
 }
 
 .footer__column-content-info{
