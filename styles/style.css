@@ -317,8 +317,6 @@ align-content: center;
 
 .footer__column-content-info{
   list-style: none;
-  position: absolute;
-  right: 0;
 }
 
 .footer__column-content-social{
