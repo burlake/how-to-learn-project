@@ -309,6 +309,7 @@ align-content: center;
   align-items: center;
   justify-content: center;
   color: white;
+  position: relative;
 
 }
 .footer__column_copyright{}
@@ -322,10 +323,18 @@ align-content: center;
 }
 
 .logo_place_footer{
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 .footer__author{
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }
 .footer__column-heading{
+  position: absolute;
+  right: 0;
 }
 .footer__social-icon{
   text-decoration: none;
