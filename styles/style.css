@@ -327,7 +327,9 @@ align-content: center;
 }
 .footer__social-icon{
   text-decoration: none;
+  color: white;
 }
 .footer__column-links{
   text-decoration: none;
+  color: white;
 }
