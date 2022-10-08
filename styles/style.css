@@ -303,4 +303,7 @@ align-content: center;
   min-width: 1280px;
   list-style: none;
   flex-wrap: wrap;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  color: white;
 }
