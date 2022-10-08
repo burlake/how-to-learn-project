@@ -283,8 +283,9 @@ align-content: center;
 }
 
 .kaufman__triangle{
-  display: flex;
-  justify-content: flex-end;
+  position: absolute;
+  right: -210;
+  
 }
 
 .footer__columns{
