@@ -119,6 +119,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  padding-bottom: 100px;
 
 }
 .section-title {
@@ -241,10 +242,4 @@ align-content: center;
   min-width: 1280px;
   list-style: none;
   flex-wrap: wrap;
-
-.logo_place_footer{
-  position: absolute;
-  top: 60px;
-  width: 228px;
-  height: 32px;
 }
