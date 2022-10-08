@@ -341,7 +341,7 @@ align-content: center;
   font-size: 18px;
   font-weight: normal;
   display: flex;
-  align-items: flex-end;
+  align-items: flex-start;
 }
 .footer__column-heading{
   padding-bottom: 20px;
