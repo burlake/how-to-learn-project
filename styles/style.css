@@ -314,11 +314,13 @@ align-content: center;
 }
 .footer__column_copyright{
   display: flex;
-  justify-content: flex-start;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .footer__column-content-info{
   display: flex;
+  flex-direction: column;
   list-style: none;
 
 }
@@ -326,7 +328,7 @@ align-content: center;
 .footer__column-content-social{
   list-style: none;
   display: flex;
-  justify-content: flex-end;
+  flex-direction: column;
 }
 
 .logo_place_footer{
