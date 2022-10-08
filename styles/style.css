@@ -299,8 +299,6 @@ align-content: center;
   height: 95px;
   display: flex;
   justify-content: center;
-  max-width: 1330px;
-  min-width: 1280px;
   list-style: none;
   flex-wrap: wrap;
   padding-top: 60px;
@@ -309,5 +307,25 @@ align-content: center;
 }
 .footer__column_copyright{
   color: white;
-  
+}
+
+.footer__column-content-info{
+  color: white;
+}
+
+.footer__column-content-social{
+  color: white;
+}
+
+.logo_place_footer{
+  color: white;
+}
+.footer__author{
+  color: white;
+}
+.footer__column-heading{
+
+}
+.footer__social-icon{
+  color: white;
 }
