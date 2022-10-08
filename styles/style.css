@@ -224,8 +224,6 @@ align-content: center;
 }
 
 .kaufman{
-  min-height: 100%;
-  margin: 0 auto;
   padding-top: 90px;
   padding-bottom: 90px;
   display: flex;
