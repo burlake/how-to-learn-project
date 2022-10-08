@@ -108,12 +108,11 @@
 .digits{
   margin: 0 auto;
   position: relative;
+  display: flex;
 }
 .section-title {
   width: 60%;
   padding-bottom: 20px;
-  display: flex;
-  align-items: center;
 }
 
 .section-subtitle{
