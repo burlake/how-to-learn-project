@@ -131,7 +131,7 @@
 
 }
 
-.section-subtitle{
+.section-subtitle {
   width: 60%;
   line-height: 34px;
   font-size: 24px;
@@ -180,6 +180,8 @@ padding-bottom: 70px;
 line-height: 1.15;
 font-size: 120px;
 font-weight: 600;
+display: flex;
+justify-content: center;
 }
 .feynman__subtitle {
   margin: 0 auto;
@@ -208,7 +210,13 @@ font-weight: 600;
 }
 
 .kaufman{
-
+  min-height: 100%;
+  margin: 0 auto;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 
