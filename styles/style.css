@@ -303,6 +303,7 @@ align-content: center;
   width: 90%;
   flex-basis: 711px;
   padding-top: 60px;
+  padding-bottom: 40px;
   display: flex;
   flex-direction: row;
   align-items: center;
