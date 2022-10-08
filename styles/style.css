@@ -297,13 +297,8 @@ align-content: center;
 
 .footer__columns{
   height: 95px;
-  display: flex;
-  justify-content: center;
-  list-style: none;
-  flex-wrap: wrap;
   padding-top: 60px;
   padding-bottom: 40px;
-  background-color: #1f1f1f;
 }
 .footer__column_copyright{
   color: white;
