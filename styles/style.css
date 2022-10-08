@@ -301,8 +301,6 @@ align-content: center;
   flex-basis: 711px;
   padding-top: 60px;
   background-color: #1f1f1f;
-  position: relative;
-  display: flex;
 
 }
 .footer__column_copyright{
