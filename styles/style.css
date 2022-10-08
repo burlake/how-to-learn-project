@@ -306,7 +306,7 @@ align-content: center;
   padding-top: 60px;
   padding-bottom: 40px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   color: white;
   display: flex;
 
