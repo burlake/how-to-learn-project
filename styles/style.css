@@ -176,7 +176,7 @@ margin: 0 auto;
 position: relative;
 display: flex;
 flex-direction: column;
-justify-content: center;
+align-content: center;
 
 }
 .feynman__title {
