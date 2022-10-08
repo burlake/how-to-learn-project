@@ -114,8 +114,8 @@
 }
 
 .digits{
-  min-height: 100%;
   margin: 0 auto;
+  min-height: 100%;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -125,6 +125,7 @@
 
 }
 .section-title {
+  margin: 0 auto;
   max-width: 60%;
   padding-bottom: 20px;
   line-height: 1.15;
@@ -136,6 +137,7 @@
 }
 
 .section-subtitle {
+  margin: 0 auto;
   max-width: 60%;
   line-height: 34px;
   font-size: 24px;
@@ -145,6 +147,7 @@
 }
 
 .table{
+  margin: 0 auto;
   max-width: 1100px;
   display: flex;
   justify-content: space-between;
@@ -172,10 +175,10 @@
 }
 
 .feynman{
-position: relative;
+  margin: 0 auto;
+  position: relative;
 height: 890px;
 background-color: #f2f2f2;
-margin: 0 auto;
 position: relative;
 display: flex;
 flex-direction: column;
