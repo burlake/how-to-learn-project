@@ -74,15 +74,13 @@
   padding-top: 100px;
   padding-bottom: 100px;
   position: relative;
-
-
 }
 
 .two-columns__main-text {
   margin: 0 auto;
   max-width: 80%;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: space-between;
 
