@@ -286,7 +286,6 @@ align-content: center;
   position: absolute;
   right: -210;
   top: 0;
-  z-index: -1;
 }
 
 .footer__columns{
