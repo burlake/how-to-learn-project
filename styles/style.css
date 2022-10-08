@@ -284,8 +284,10 @@ align-content: center;
 
 .kaufman__triangle{
   position: absolute;
-  right: -210;
   top: 0;
+  right: -210;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .footer__columns{
