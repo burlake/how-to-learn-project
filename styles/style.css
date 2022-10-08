@@ -252,6 +252,7 @@ align-content: center;
   font-weight: normal;
   display: flex;
   justify-content: center;
+  color: white;
 }
 
 .table__dark{
