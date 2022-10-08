@@ -310,6 +310,8 @@ align-content: center;
   color: white;
   display: flex;
   justify-content: space-between;
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
 
 }
 .footer__column_copyright{
