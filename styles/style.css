@@ -328,8 +328,10 @@ align-content: center;
 .footer__social-icon{
   text-decoration: none;
   color: white;
+  list-style: none;
 }
 .footer__column-links{
   text-decoration: none;
   color: white;
+  list-style: none;
 }
