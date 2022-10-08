@@ -150,7 +150,8 @@
 }
 
 .table__cell{
-  padding-bottom: 60px;
+  padding-top: 60px;
+  padding-bottom: 100px;
   list-style: none;
   width: 250px;
 
