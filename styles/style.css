@@ -302,14 +302,14 @@ align-content: center;
   margin: 0 auto;
   width: 90%;
   flex-basis: 711px;
-  margin-top: 60px;
-  margin-bottom: 40px;
+  padding-top: 60px;
+  padding-bottom: 40px;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
   color: white;
-  position: relative;
+  display: flex;
 
 }
 .footer__column_copyright{
@@ -321,19 +321,14 @@ align-content: center;
 
 .footer__column-content-social{
   list-style: none;
-  position: absolute;
-  right: 0;
+  justify-content: flex-end;
 }
 
 .logo_place_footer{
-  position: absolute;
-  top: 0;
-  left: 0;
+ justify-content: flex-start;
 }
 .footer__author{
-  position: absolute;
-  bottom: 0;
-  left: 0;
+justify-content: flex-start;
   padding-top: 18px;
   padding-left: 18px;
 }
