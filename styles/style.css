@@ -313,9 +313,6 @@ align-content: center;
 
 }
 .footer__column_copyright{
-  position: absolute;
-  right: 0;
-}
 }
 
 .footer__column-content-info{
@@ -323,13 +320,11 @@ align-content: center;
   position: absolute;
   right: 0;
 }
-}
 
 .footer__column-content-social{
   list-style: none;
   position: absolute;
   right: 0;
-}
 }
 
 .logo_place_footer{
