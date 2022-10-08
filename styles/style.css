@@ -299,11 +299,6 @@ align-content: center;
   margin: 0 auto;
   height: 95px;
   padding-top: 60px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-  position: relative;
   background-color: #1f1f1f;
 }
 .footer__column_copyright{
@@ -325,7 +320,7 @@ align-content: center;
   color: white;
 }
 .footer__column-heading{
-
+  color: white;
 }
 .footer__social-icon{
   color: white;
