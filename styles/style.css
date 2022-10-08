@@ -313,6 +313,7 @@ align-content: center;
 .footer__column_copyright{
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
 }
 
 .footer__column-content-info{
