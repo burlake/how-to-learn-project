@@ -231,6 +231,8 @@ align-content: center;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  position: relative;
+  overflow: hidden;
 }
 
 .section-title-dark{
@@ -282,7 +284,9 @@ align-content: center;
 }
 
 .kaufman__triangle{
-  
+  position: absolute;
+  right: -210;
+  z-index: 0;
 }
 
 .footer__columns{
