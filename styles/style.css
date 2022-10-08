@@ -313,22 +313,25 @@ align-content: center;
 
 }
 .footer__column_copyright{
+  display: flex;
+  justify-content: flex-start;
 }
 
 .footer__column-content-info{
+  display: flex;
   list-style: none;
+
 }
 
 .footer__column-content-social{
   list-style: none;
+  display: flex;
   justify-content: flex-end;
 }
 
 .logo_place_footer{
- justify-content: flex-start;
 }
 .footer__author{
-justify-content: flex-start;
   padding-top: 18px;
   padding-left: 18px;
 }
