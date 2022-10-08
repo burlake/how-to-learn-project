@@ -314,9 +314,11 @@ align-content: center;
 .footer__column_copyright{}
 
 .footer__column-content-info{
+  list-style: none;
 }
 
 .footer__column-content-social{
+  list-style: none;
 }
 
 .logo_place_footer{
@@ -328,10 +330,8 @@ align-content: center;
 .footer__social-icon{
   text-decoration: none;
   color: white;
-  list-style: none;
 }
 .footer__column-links{
   text-decoration: none;
   color: white;
-  list-style: none;
 }
