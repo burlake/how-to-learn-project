@@ -297,11 +297,18 @@ align-content: center;
 
 .footer__columns{
   margin: 0 auto;
+  width: 90%;
+  flex-basis: 711px;
   padding-top: 60px;
   background-color: #1f1f1f;
+  position: relative;
+  display: flex;
+
 }
 .footer__column_copyright{
   color: white;
+  position: absolute;
+  left: 0;
 }
 
 .footer__column-content-info{
