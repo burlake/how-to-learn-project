@@ -297,6 +297,7 @@ align-content: center;
 
 .footer{
   background-color: #1f1f1f;
+  min-height: 350px;
 }
 .footer__columns{
   margin: 0 auto;
