@@ -243,6 +243,7 @@ align-content: center;
   color: white;
   display: flex;
   justify-content: center;
+  z-index: 1;
 }
 
 .section-subtitle-dark {
@@ -253,6 +254,7 @@ align-content: center;
   display: flex;
   justify-content: center;
   color: white;
+  z-index: 1;
 }
 
 .table__dark{
@@ -260,6 +262,7 @@ align-content: center;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  z-index: 1;
 }
 
 .table__cell-dark{
