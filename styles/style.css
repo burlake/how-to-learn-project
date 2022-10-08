@@ -230,10 +230,8 @@ align-content: center;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  overflow: hidden;
   position: relative;
 }
-
 
 .section-title-dark{
   width: 60%;
@@ -243,7 +241,6 @@ align-content: center;
   font-weight: 600;
   display: flex;
   justify-content: center;
-
 }
 
 .section-subtitle-dark {
