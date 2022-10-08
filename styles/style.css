@@ -297,8 +297,8 @@ align-content: center;
 
 .footer__columns{
   height: 95px;
-  padding-top: 60px;
-  padding-bottom: 40px;
+  margin-top: 60px;
+  margin-bottom: 40px;
   background-color: #1f1f1f;
 }
 .footer__column_copyright{
