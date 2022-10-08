@@ -180,6 +180,7 @@ align-content: center;
 
 }
 .feynman__title {
+  margin: 0 auto;
   padding-top: 100px;
   width: 648px;
   line-height: 1.15;
@@ -187,6 +188,7 @@ align-content: center;
   font-weight: 600;
   z-index: 1;
   text-align: center;
+
 }
 .feynman__subtitle {
   margin: 0 auto;
