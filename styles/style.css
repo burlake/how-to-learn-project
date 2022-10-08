@@ -283,9 +283,6 @@ align-content: center;
 }
 
 .kaufman__triangle{
-  position: absolute;
-  top: 0;
-  right: -210;
   display: flex;
   justify-content: flex-end;
 }
