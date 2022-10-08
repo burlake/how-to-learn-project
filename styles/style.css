@@ -322,6 +322,7 @@ align-content: center;
   display: flex;
   flex-direction: column;
   list-style: none;
+  justify-content: flex-end;
 
 }
 
