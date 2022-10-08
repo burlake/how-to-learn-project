@@ -334,20 +334,31 @@ align-content: center;
 
 .logo_place_footer{
 }
+
 .footer__author{
   padding-top: 18px;
   padding-left: 18px;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
 }
 .footer__column-heading{
-  
+  padding-bottom: 20px;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 600;
 }
 .footer__social-icon{
   text-decoration: none;
   color: white;
+  padding-bottom: 16px;
   padding-right: 10px;
 }
 .footer__column-links{
   text-decoration: none;
   color: white;
   padding-bottom: 16px;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
 }
