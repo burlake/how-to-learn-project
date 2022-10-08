@@ -311,7 +311,7 @@ align-content: center;
   display: flex;
   justify-content: space-between;
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr;
+  grid-template-columns: 3fr 1fr 1fr;
 
 }
 .footer__column_copyright{
