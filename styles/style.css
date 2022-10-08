@@ -298,7 +298,6 @@ align-content: center;
 .footer__columns{
   margin: 0 auto;
   width: 90%;
-  height: 100%;
   flex-basis: 711px;
   padding-top: 60px;
   background-color: #1f1f1f;
