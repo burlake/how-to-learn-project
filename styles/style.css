@@ -120,6 +120,9 @@
 
 .section-subtitle{
   width: 60%;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
 }
 
 .table{
@@ -137,10 +140,17 @@
 
 }
 
-.table__heading{}
+.table__heading{
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
+}
 
 .table__text{
   padding-bottom: 20px;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
 }
 
 .feynman{
