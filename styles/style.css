@@ -365,6 +365,8 @@ align-content: center;
   text-decoration: none;
   color: white;
   padding-right: 10px;
+  height: 16px;
+  width: 16px;
 
 }
 .footer__column-link{
