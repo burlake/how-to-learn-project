@@ -232,6 +232,7 @@
   justify-content: center;
   position: relative;
   background-color: #1f1f1f;
+  overflow: hidden;
 }
 
 .section-title-dark{
@@ -300,7 +301,6 @@
   width:877;
   height:877;
   background-size: cover;
-  overflow: hidden;
 }
 
 footer{
