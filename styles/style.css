@@ -10,11 +10,6 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-.page__footer {
-  font-family: 'Helvetica Neue', Arial, sans-serif;
-  background-color: #1f1f1f;
-}
-
 .header {
   height: 100vh;
   min-height: 600px;
@@ -306,6 +301,8 @@ align-content: center;
 }
 
 .footer__columns{
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background-color: #1f1f1f;
   margin: 0 auto;
   max-width: 90%;
   min-height: 350px;
@@ -319,7 +316,6 @@ align-content: center;
   justify-content: space-between;
   display: grid;
   grid-template-columns: 3fr 1fr 1fr;
-
 
 }
 .footer__column_copyright{
