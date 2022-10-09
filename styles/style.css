@@ -375,6 +375,8 @@ align-content: center;
   font-size: 18px;
   font-weight: normal;
   list-style: none;
+  display: flex;
+  flex-direction: row;
 
 }
 .footer__column-links{
