@@ -167,7 +167,6 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
-  list-style: none;
 }
 
 .table__text{
@@ -175,6 +174,7 @@
   font-size: 18px;
   font-weight: normal;
   padding-top: 20px;
+  list-style: none;
 }
 
 .feynman{
