@@ -294,6 +294,7 @@ align-content: center;
   top: 0;
   right: -210px;
   z-index: 0;
+  background-size: cover;
 }
 
 .footer{
