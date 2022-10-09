@@ -280,6 +280,7 @@ align-content: center;
   font-weight: 600;
   padding-bottom: 20px;
   color: white;
+  list-style: none;
 }
 
 .table__text-dark{
