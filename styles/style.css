@@ -379,6 +379,7 @@ footer{
   display: flex;
   flex-direction: row;
   align-items: center;
+  text-decoration: none;
 
 }
 .footer__column-links{
