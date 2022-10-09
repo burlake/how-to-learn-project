@@ -263,6 +263,7 @@ align-content: center;
   justify-content: space-between;
   flex-wrap: wrap;
   z-index: 1;
+  background-size: cover;
 }
 
 .table__cell-dark{
@@ -290,7 +291,6 @@ align-content: center;
 
 .kaufman__triangle{
   position: absolute;
-  background-size: cover;
   top: 0;
   right: -210px;
   z-index: 0;
