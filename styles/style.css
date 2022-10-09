@@ -364,10 +364,7 @@ align-content: center;
 .footer__social-icon{
   text-decoration: none;
   color: white;
-  padding-bottom: 16px;
   padding-right: 10px;
-  display: flex;
-  align-items: center;
 
 }
 .footer__column-link{
