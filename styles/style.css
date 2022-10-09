@@ -380,5 +380,6 @@ align-content: center;
   margin: 0 auto;
   list-style: none;
   display: flex;
+  flex-direction: column;
   justify-content: flex-start;
 }
