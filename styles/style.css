@@ -9,6 +9,12 @@
   margin: 0 auto;
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
+
+.page__footer {
+  margin: 0 auto;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
 .header {
   height: 100vh;
   min-height: 600px;
