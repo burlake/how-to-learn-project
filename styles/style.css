@@ -319,7 +319,6 @@ align-content: center;
   display: grid;
   grid-template-columns: 3fr 1fr 1fr;
   position: relative;
-  z-index: 0;
 
 }
 .footer__column_copyright{
@@ -379,12 +378,14 @@ align-content: center;
   font-size: 18px;
   font-weight: normal;
   list-style: none;
-  z-index: 1;
+  position: absolute;
+  z-index: 0;
 }
 .footer__column-links{
   list-style: none;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  z-index: 1;
+  position: absolute;
+  z-index: 0;
 }
