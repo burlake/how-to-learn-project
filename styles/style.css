@@ -377,7 +377,6 @@ align-content: center;
   list-style: none;
 }
 .footer__column-links{
-  margin: 0 auto;
   list-style: none;
   display: flex;
   flex-direction: column;
