@@ -25,6 +25,7 @@
   display: flex;
   align-items: center;
 }
+
 .logo_place_header{
   position: absolute;
   top: 30px;
@@ -32,6 +33,7 @@
   width: 228px;
   height: 32px;
 }
+
 .header__title{
   font-size: 102px;
   font-weight: 600px;
@@ -40,6 +42,7 @@
   margin: 0 0 0 64px;
   z-index: 3;
 }
+
 .header__subtitle{
   position: absolute;
   bottom: 30px;
@@ -50,10 +53,12 @@
   line-height:25px;
   margin: 0;
 }
+
 .header__link {
   text-decoration: none;
   text-decoration-color: #2f80ed;
 }
+
 .header__main-illustration {
   height: 608px;
   width: 765px;
@@ -62,6 +67,7 @@
   bottom: 0px;
   right: 0px;
 }
+
 .header__square-pic {
   height: 568px;
   width: 568px;
@@ -187,8 +193,8 @@
   display: flex;
   flex-direction: column;
   align-content: center;
-
 }
+
 .feynman__title {
   margin: 0 auto;
   padding-top: 100px;
@@ -198,8 +204,8 @@
   font-weight: 600;
   z-index: 1;
   text-align: center;
-
 }
+
 .feynman__subtitle {
   margin: 0 auto;
   padding-top: 70px;
@@ -209,6 +215,7 @@
   z-index: 1;
   text-align: center;
 }
+
 .feynman__link {
   position: absolute;
   top: 50%;
@@ -228,7 +235,6 @@
   height: 637px;
   width: 867px;
   z-index: 0;
- 
 }
 
 .kaufman{
@@ -282,7 +288,6 @@
   padding-top: 80px;
   list-style: none;
   max-width: 200px;
-
 }
 
 .table__heading-dark{
@@ -333,8 +338,8 @@ footer{
   justify-content: space-between;
   display: grid;
   grid-template-columns: 3fr 1fr 1fr;
-
 }
+
 .footer__column_copyright{
   display: flex;
   flex-direction: column;
@@ -345,7 +350,6 @@ footer{
   display: flex;
   flex-direction: column;
   list-style: none;
-
 }
 
 .footer__column-content-social{
@@ -369,20 +373,22 @@ footer{
   display: flex;
   align-items: flex-start;
 }
+
 .footer__column-heading{
   padding-bottom: 20px;
   line-height: 30px;
   font-size: 18px;
   font-weight: 600;
 }
+
 .footer__social-icon{
   text-decoration: none;
   color: white;
   margin-right: 10px;
   height: 16px;
   width: 16px;
-
 }
+
 .footer__column-link{
   color: white;
   line-height: 30px;
@@ -393,8 +399,8 @@ footer{
   flex-direction: row;
   align-items: center;
   text-decoration: none;
-
 }
+
 .footer__column-links{
   list-style: none;
   display: flex;
