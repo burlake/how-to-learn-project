@@ -280,15 +280,14 @@ align-content: center;
   font-weight: 600;
   color: white;
   list-style: none;
-  padding-top: 20px;
 }
 
 .table__text-dark{
-  padding-bottom: 20px;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
   color: white;
+  padding-top: 20px;
 }
 
 .kaufman__triangle{
