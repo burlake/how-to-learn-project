@@ -320,7 +320,6 @@ footer{
   display: flex;
   flex-direction: row;
   color: white;
-  display: flex;
   justify-content: space-between;
   display: grid;
   grid-template-columns: 3fr 1fr 1fr;
@@ -393,4 +392,4 @@ footer{
   justify-content: flex-start;
   z-index: 1;
 }
-final 9.10 - 14.09
+final 9.10 - 14.30
