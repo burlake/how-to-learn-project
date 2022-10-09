@@ -278,9 +278,9 @@ align-content: center;
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
-  padding-bottom: 20px;
   color: white;
   list-style: none;
+  padding-bottom: 20px;
 }
 
 .table__text-dark{
