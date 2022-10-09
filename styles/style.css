@@ -175,12 +175,12 @@
 .feynman{
   margin: 0 auto;
   position: relative;
-height: 890px;
-background-color: #f2f2f2;
-position: relative;
-display: flex;
-flex-direction: column;
-align-content: center;
+  height: 890px;
+  background-color: #f2f2f2;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
 
 }
 .feynman__title {
@@ -386,5 +386,5 @@ footer{
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-
 }
+final 9.10 - 12:08
