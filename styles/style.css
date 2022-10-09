@@ -304,7 +304,6 @@ align-content: center;
   background-size: cover;
 }
 
-}
 .footer__columns{
   margin: 0 auto;
   max-width: 90%;
@@ -335,7 +334,6 @@ align-content: center;
 }
 
 .footer__column-content-social{
-  list-style: none;
   display: flex;
   flex-direction: column;
 }
@@ -376,7 +374,9 @@ align-content: center;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
+  list-style: none;
 }
 .footer__column-links{
   margin: 0 auto;
+  list-style: none;
 }
