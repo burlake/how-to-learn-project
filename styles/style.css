@@ -74,16 +74,13 @@
   padding: 0;
   margin-top: 100px;
   margin-bottom: 100px;
-  display: flex;
-  align-items: center;
-
 }
 
 .two-columns {
   margin: 0 auto;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  align-items: center;
 }
 
 .two-columns__main-text {
