@@ -77,24 +77,22 @@
 }
 
 .two-columns__main-text {
-  margin: 0 auto;
+  margin: 0;
   width: 80%;
   min-width: 784px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  align-items: flex-start;
 
 }
 
 .two-columns__brif {
-  margin: 0 auto;
+  margin: 0;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
   color: #2f80ed;
   max-width: 175px;
-  align-items: flex-start;
 }
 
 .two-columns__paragraph {
