@@ -80,7 +80,7 @@
   margin: 0 auto;
   display: flex;
   flex-direction: row;
-  align-items: center;
+  justify-content: center;
 }
 
 .two-columns__main-text {
