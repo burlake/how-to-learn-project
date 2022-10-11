@@ -171,6 +171,8 @@
 }
 
 .table__text{
+  padding: 0;
+  margin: 0;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
@@ -285,6 +287,8 @@
 }
 
 .table__heading-dark{
+  padding: 0;
+  margin: 0;
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
@@ -341,12 +345,16 @@ footer{
 }
 
 .footer__column-content-info{
+  padding: 0;
+  margin: 0;
   display: flex;
   flex-direction: column;
   list-style: none;
 }
 
 .footer__column-content-social{
+  padding: 0;
+  margin: 0;
   display: flex;
   flex-direction: column;
 }
