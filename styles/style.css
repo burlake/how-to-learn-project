@@ -385,7 +385,7 @@
 }
 
 .footer__column-heading{
-  padding: 0;
+ margin: 0;
   padding-bottom: 20px;
   line-height: 30px;
   font-size: 18px;
