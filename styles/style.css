@@ -276,24 +276,13 @@
 }
 
 .table__heading-dark{
-  padding: 0;
-  margin: 0;
-  line-height: 1.15;
-  font-size: 24px;
-  font-weight: 600;
   color: #ffffff;
   list-style: none;
+  
 }
 
 .table__text-dark{
-  margin: 0;
-  padding: 0;
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
   color: #ffffff;
-  padding-top: 20px;
-  list-style: none;
 }
 
 .kaufman__triangle{
