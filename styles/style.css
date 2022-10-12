@@ -113,6 +113,10 @@
   padding: 0 0 30px 0;
  }
  
+.two-columns__paragraph:last-of-type{
+padding: 0;
+ }
+
 .two-columns__span-accent{
   line-height: 34px;
   font-size: 24px;
@@ -391,6 +395,7 @@
 }
 
 .footer__column-link{
+  padding: 0;
   color: #ffffff;
   line-height: 30px;
   font-size: 18px;
