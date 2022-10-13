@@ -42,6 +42,7 @@
 
 .header__subtitle{
   margin: 0;
+  padding: 0;
   position: absolute;
   bottom: 30px;
   left: 64px;
@@ -393,4 +394,4 @@
   justify-content: flex-start;
   z-index: 1;
 }
-/* final version 13.10 20:28-*/
+/* final version 13.10 20:55-*/
