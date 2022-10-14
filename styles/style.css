@@ -297,7 +297,7 @@
   object-fit: cover;
   background-image: url ("./images/kaufman-triangle.svg");
   background-size: 877px 877px;
-  z-index: 0;
+  z-index: 1;
 }
 
 .footer{
