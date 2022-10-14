@@ -268,7 +268,7 @@
   z-index: 1;
 }
 
-.table__theme_dark{
+.table_theme_dark{
   z-index: 1;
   background-size: cover;
 }
@@ -394,4 +394,4 @@
   justify-content: flex-start;
   z-index: 1;
 }
-/* final version 13.10 20:55-*/
+/*final version 14.10 table_theme_dark-*/
