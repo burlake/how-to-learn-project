@@ -295,7 +295,7 @@
   top: 0;
   object-fit: cover;
   right: -210px;
-  background-image: url('../images/kaufman-triangle.svg'); 
+  background-image: url('../images/kaufman-triangle.svg');
   width: 877px;
   height: 877px;
   z-index: 0;
@@ -395,4 +395,4 @@
   justify-content: flex-start;
   z-index: 1;
 }
-/*final version 14.10 23:16 table_theme_dark-*/
+/*final version 14.10 23:40 */
