@@ -464,7 +464,7 @@
   padding: 0;
   padding-top: 60px;
   display: grid;
-  grid-template-rows: 1fr;
+  grid-template-columns: repeat(3, 2fr);
   grid-column-gap: 20px;
   z-index: 1;
 }
