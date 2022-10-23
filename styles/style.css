@@ -417,7 +417,7 @@
 .cards__item {
   margin: 0, auto;
   list-style: none;
-  width: 250px;
+  width: 240px;
 }
 
 .cards__image {
@@ -463,10 +463,12 @@
   margin: 0 auto;
   padding: 0;
   padding-top: 60px;
+  max-width: 1050px;
   display: grid;
   grid-template-columns: repeat(2, 2fr);
   grid-column-gap: 20px;
   z-index: 1;
+
 }
 
 .video__iframe{
