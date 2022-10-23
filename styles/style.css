@@ -458,6 +458,6 @@
   padding: 0;
   padding-top: 60px;
   display: grid;
-  grid-template-columns: repeat(auto-fill);
+  grid-template-columns: repeat(2fr);
   grid-column-gap: 20px;
 }
