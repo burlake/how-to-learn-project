@@ -453,6 +453,11 @@
   text-align: center;
 }
 
+.video{
+  margin: 0 auto;
+  padding: 0;
+}
+}
 .video__iframes{
   margin: 0 auto;
   padding: 0;
