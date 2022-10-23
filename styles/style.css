@@ -418,7 +418,7 @@
   margin: 0, auto;
   list-style: none;
   width: 250px;
-  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .cards__image {
