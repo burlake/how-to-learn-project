@@ -405,7 +405,9 @@
 
 .cards {
   margin: 0 auto;
-  padding: 100px;
+  padding: 0;
+  padding-left: 100px;
+  padding-right: 100px;
   max-width: 920px;
   display: flex;
   justify-content: start;
