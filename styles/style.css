@@ -470,5 +470,5 @@
 
 .video__iframe{
   display: flex;
-  align-self: center;
+  justify-self: center;
 }
