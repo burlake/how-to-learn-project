@@ -405,12 +405,13 @@
 
 .cards {
   margin: 0 auto;
-  padding: 0;
+  padding: 100px;
   max-width: 920px;
   display: flex;
-  justify-content: space-between;
+  justify-content: start;
   flex-wrap: wrap;
   z-index: 1;
+
 }
 
 .cards__item {
