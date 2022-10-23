@@ -506,6 +506,4 @@
   padding: 0;
   width: 270px;
   height: 38px;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
 }
