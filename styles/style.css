@@ -417,10 +417,15 @@
   width: 160px;
   height: 160px;
   border-radius: 50%;
+  overflow:hidden; 
   margin-left: 40px;
   padding-right: 40px;
   margin-top: 60px;
 }
+
+
+
+
 
 .cards__title{
   padding: 0;
