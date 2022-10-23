@@ -414,13 +414,12 @@
 
 .cards__image {
   margin: auto;
-  box-sizing: border-box;
-  border-radius: 50%;
   width: 160px;
   height: 160px;
-  padding-left: 40px;
+  border-radius: 50%;
+  margin-left: 40px;
   padding-right: 40px;
-  padding-top: 60px;
+  margin-top: 60px;
 }
 
 .cards__title{
