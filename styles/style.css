@@ -407,11 +407,12 @@
   margin: 0 auto;
   padding: 0;
   width: 920px;
-  display: flex;
-  justify-content: start;
   flex-wrap: wrap;
   z-index: 1;
-
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 100px;
+  grid-row-gap: 1em;
 }
 
 .cards__item {
