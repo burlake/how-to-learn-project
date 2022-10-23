@@ -479,7 +479,7 @@
 .oakley {
   margin: o auto;
   padding: 0;
-  padding-top: 100px;
+  padding-top: -100px;
   display: flex;
   z-index: 0;
 }
