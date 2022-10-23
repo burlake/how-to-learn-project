@@ -410,9 +410,8 @@
   flex-wrap: wrap;
   z-index: 1;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 2fr);
   grid-column-gap: 100px;
-  grid-row-gap: 1em;
 }
 
 .cards__item {
@@ -455,5 +454,11 @@
 }
 
 .video__iframes{
-  
+  margin: 0 auto;
+  padding: 0;
+  padding-top: 60px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 20px;
+}
 }
