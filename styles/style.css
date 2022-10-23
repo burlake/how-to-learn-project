@@ -406,8 +406,6 @@
 .cards {
   margin: 0 auto;
   padding: 0;
-  padding-left: 100px;
-  padding-right: 100px;
   max-width: 920px;
   display: flex;
   justify-content: start;
@@ -420,6 +418,8 @@
   margin: 0, auto;
   list-style: none;
   width: 250px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .cards__image {
