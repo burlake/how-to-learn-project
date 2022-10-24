@@ -1,3 +1,12 @@
+@rotation move_square-pic {
+  from {
+    transform: rotate(0deg);
+    }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 .page {
   min-width: 1100px;
   max-width: 1600px;
@@ -507,6 +516,13 @@
   height: 38px;
 }
 
+.rotation{
+  animation-name: move_square-pic;
+  animation-duration: 20s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-play-state: running;
+}
 
 
 /*final version 23.10 22:13 */
