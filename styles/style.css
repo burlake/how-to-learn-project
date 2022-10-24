@@ -86,7 +86,7 @@
   position: absolute;
   top: 64px;
   right: 0px;
-  animation: spin 20s linear 0s infinite;
+  animation: rotation 20s linear infinite reverse;
   overflow: hidden;
 }
 
@@ -520,5 +520,5 @@
   height: 38px;
 }
 
-/*rotation 20s ease-in-out infinite;*/
+/**/
 /*final version 23.10 22:13 */
