@@ -1,4 +1,4 @@
-@header rotation{
+@keyframes rotation{
   from {
     transform: rotate(0deg);
     }
