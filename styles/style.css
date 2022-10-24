@@ -86,7 +86,7 @@
   position: absolute;
   top: 64px;
   right: 0px;
-  animation: rotation 20s linear infinite reverse;
+  animation: rotation 20s linear infinite normal;
   overflow: hidden;
 }
 
