@@ -87,7 +87,7 @@
   top: 64px;
   right: 0px;
   animation: rotation 20s ease-in-out infinite;
-  object-fit: cover;
+  overflow: hidden;
 }
 
 .description{
