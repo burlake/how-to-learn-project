@@ -318,10 +318,10 @@
   top: 0;
   object-fit: cover;
   right: -210px;
-  background-image: url('../images/kaufman-triangle.svg');
   width: 877px;
   height: 877px;
   z-index: 0;
+  background-image: url('../images/kaufman-triangle.svg');
   animation: rotation 20s linear infinite normal;
 }
 
