@@ -317,6 +317,7 @@
   padding: 0;
   position: absolute;
   top: 0;
+  background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
   right: -210px;
@@ -499,12 +500,12 @@
   grid-template-columns: repeat(2, 2fr);
   grid-column-gap: 20px;
   z-index: 1;
-
 }
 
 .video__iframe{
   display: flex;
   justify-self: center;
+  border:0;
 }
 
 .oakley {
