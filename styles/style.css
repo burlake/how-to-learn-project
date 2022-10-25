@@ -505,6 +505,8 @@
 .video__iframe{
   display: flex;
   justify-self: center;
+  width: 515px;
+  height: 316px;
 }
 
 .oakley {
