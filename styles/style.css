@@ -317,7 +317,8 @@
   padding: 0;
   position: absolute;
   top: 0;
-  object-fit: cover;
+  background-position: center;
+  background-size: contain;
   right: -210px;
   width: 877px;
   height: 877px;
