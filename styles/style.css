@@ -612,7 +612,8 @@
   padding-right: 48px;
   width: 620px;
   height: 608px;
-  overflow: hidden;
+  object-fit: cover;
+  object-position: 0 0;
 }
 .khan__buy-link{
   margin: 0;
