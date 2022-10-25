@@ -402,6 +402,11 @@
   text-decoration: none;
 }
 
+.footer__column-link:hover {
+  background-color: white;
+  transition: background-color 1s linear 0.5s;
+} 
+
 .footer__column-links{
   padding: 0;
   list-style: none;
