@@ -550,40 +550,72 @@
   transition: 1s linear 0.5s;
 } 
 
-.khan{}
-.khan__container{}
+.khan__container{
+  margin: 0 auto;
+  padding: 0;
+  max-width: 80%;
+
+}
 .khan__author{
+  margin: 0 auto;
+  padding: 0;
   line-height: 42px;
   font-size: 30px;
   font-weight: normal;
-  
-  max-width: 730px;
-  margin: 0 0 0 64px;
-  z-index: 3;
+  max-width: 80%;
 }
 .khan__title{
+  margin: 0 auto;
+  padding: 0;
   line-height: 1.15;
   font-size: 60px;
   font-weight: 600;
+
 }
 .khan__quoter{
+  margin: 0 auto;
+  padding: 0;
+  padding-top: 50px;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+  max-width: 790px;
 }
 .khan__quoter-author{
+  margin: 0 auto;
+  padding: 0;
+  padding-top: 36px;
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
 }
 .khan__quoter-subline{
+  margin: 0 auto;
+  padding: 0;
+  padding-top: 10px;
   line-height: 1.15;
   font-size: 24px;
   font-weight: normal;
 }
-.khan__book-container{}
-.khan__book-pic{}
+.khan__book-container{
+  margin: 0 auto;
+  padding: 0;
+  padding-top: 68px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+.khan__book-pic{
+  margin: 0 auto;
+  padding: 0;
+  padding-right: 48px;
+  width: 620px;
+  height: 608px;
+}
 .khan__buy-link{
+  margin: 0 auto;
+  padding: 0;
   line-height: 42px;
   font-size: 30px;
   font-weight: normal;
