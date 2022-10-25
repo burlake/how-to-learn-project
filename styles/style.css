@@ -557,7 +557,7 @@
 
 }
 .khan__author{
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   line-height: 42px;
   font-size: 30px;
@@ -565,7 +565,7 @@
   max-width: 80%;
 }
 .khan__title{
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   line-height: 1.15;
   font-size: 60px;
@@ -573,7 +573,7 @@
 
 }
 .khan__quoter{
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   padding-top: 50px;
   line-height: 34px;
@@ -582,7 +582,7 @@
   max-width: 790px;
 }
 .khan__quoter-author{
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   padding-top: 36px;
   line-height: 1.15;
@@ -590,7 +590,7 @@
   font-weight: 600;
 }
 .khan__quoter-subline{
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   padding-top: 10px;
   line-height: 1.15;
@@ -598,23 +598,23 @@
   font-weight: normal;
 }
 .khan__book-container{
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   padding-top: 68px;
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: start;
 
 }
 .khan__book-pic{
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   padding-right: 48px;
   width: 620px;
   height: 608px;
 }
 .khan__buy-link{
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   line-height: 42px;
   font-size: 30px;
