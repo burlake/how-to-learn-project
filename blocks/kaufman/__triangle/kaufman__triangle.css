@@ -12,8 +12,7 @@
   padding: 0;
   position: absolute;
   top: 0;
-  background-repeat: no-repeat;
-  background-position: center;
+  background: center center/cover no-repeat;
   background-size: contain;
   right: -210px;
   width: 877px;
