@@ -322,8 +322,8 @@
   width: 877px;
   height: 877px;
   z-index: 0;
-  background-image: url('../images/kaufman-triangle.svg');
-  animation: rotation 20s infinite;
+  background-image: url();
+  animation: rotation 20s linear infinite normal;
 }
 
 .footer{
