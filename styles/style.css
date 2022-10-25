@@ -407,6 +407,12 @@
   text-decoration: none;
 }
 
+.footer__column-link:hover {
+  color:rgb(255, 255, 255, .5)
+  transition: 1s linear 0.5s;
+  
+} 
+
 .footer__column-links{
   padding: 0;
   list-style: none;
@@ -415,11 +421,6 @@
   justify-content: flex-start;
   z-index: 1;
 }
-
-.footer__column-links:hover {
-  background-color: white;
-  transition: background-color 1s linear 0.5s;
-} 
 
 .techniques{
   margin: 0 auto;
