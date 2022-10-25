@@ -69,9 +69,9 @@
   color: #2f80ed;
 }
 
-.header__link:hover{
-  background-color: white;
-  transition: background-color 1s linear 0.5s;
+.header__link:hover {
+  color:rgb(255, 255, 255, .5);
+  transition: 1s linear 0.5s;
 } 
 
 .header__main-illustration {
@@ -252,6 +252,10 @@
   z-index: 1;
   text-decoration: none;
 }
+.feynman:hover {
+  color:rgb(255, 255, 255, .5);
+  transition: 1s linear 0.5s;
+} 
 
 .feynman__image {
   position: absolute;
@@ -410,7 +414,6 @@
 .footer__column-link:hover {
   color:rgb(255, 255, 255, .5);
   transition: 1s linear 0.5s;
-  
 } 
 
 .footer__column-links{
@@ -533,9 +536,15 @@
 }
 
 .resources__logo_link:hover{
-  background-color: white;
-  transition: background-color 1s linear 0.5s;
-} 
+  color:rgb(255, 255, 255, .5);
+  transition: 1s linear 0.5s;
+}  
 
 /**/
 /*final version 25.10 00:44 */
+
+
+.iframe__title:hover {
+  color:rgb(255, 255, 255, .5);
+  transition: 1s linear 0.5s;
+} 
