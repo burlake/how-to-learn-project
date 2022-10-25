@@ -69,6 +69,11 @@
   color: #2f80ed;
 }
 
+.header__link:hover{
+  background-color: white;
+  transition: background-color 1s linear 0.5s;
+} 
+
 .header__main-illustration {
   height: 608px;
   width: 765px;
@@ -402,11 +407,6 @@
   text-decoration: none;
 }
 
-.footer__column-link:hover {
-  background-color: white;
-  transition: background-color 1s linear 0.5s;
-} 
-
 .footer__column-links{
   padding: 0;
   list-style: none;
@@ -415,6 +415,11 @@
   justify-content: flex-start;
   z-index: 1;
 }
+
+.footer__column-links:hover {
+  background-color: white;
+  transition: background-color 1s linear 0.5s;
+} 
 
 .techniques{
   margin: 0 auto;
@@ -525,6 +530,11 @@
   width: 270px;
   height: 38px;
 }
+
+.resources__logo_link:hover{
+  background-color: white;
+  transition: background-color 1s linear 0.5s;
+} 
 
 /**/
 /*final version 25.10 00:44 */
