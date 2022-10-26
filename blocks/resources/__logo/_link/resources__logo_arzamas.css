@@ -4,8 +4,3 @@
   width: 270px;
   height: 38px;
 }
-
-   .resources__logo_arzamas:hover{
-    color:rgb(255, 255, 255, .5);
-    transition: 1s linear 0.5s;
-  }  
