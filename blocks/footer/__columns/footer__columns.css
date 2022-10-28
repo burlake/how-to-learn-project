@@ -2,10 +2,8 @@
   margin: 0 auto;
   max-width: 90%;
   min-height: 250px;
-  flex-basis: 711px;
   flex-direction: row;
   color: #ffffff;
   justify-content: space-between;
-  display: grid;
   grid-template-columns: 3fr 1fr 1fr;
 }
