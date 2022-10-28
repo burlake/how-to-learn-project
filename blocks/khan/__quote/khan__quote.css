@@ -8,4 +8,5 @@
   font-weight: normal;
   max-width: 790px;
   display: flex;
+  justify-self: start;;
 }
