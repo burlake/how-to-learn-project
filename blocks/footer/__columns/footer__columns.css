@@ -1,8 +1,11 @@
 .footer__columns{
   margin: 0 auto;
-  min-height: 250px;
-  flex-direction: column;
-  color: #ffffff;
-  justify-content: space-between;
+  padding: 0;
   max-width: 90%;
-} 
+  min-height: 250px;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
