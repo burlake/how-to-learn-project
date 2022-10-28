@@ -4,6 +4,6 @@
 }
 
 .resources__link:hover{
-  color:rgb(255, 255, 255, .5);
+  opacity: 0.5;
   transition: 1s linear 0.5s;
 }
