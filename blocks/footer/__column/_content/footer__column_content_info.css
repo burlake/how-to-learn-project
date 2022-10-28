@@ -1,6 +1,3 @@
 .footer__column_content_info{
-  display: flex;
-  flex-direction: column;
-  list-style: none;
   flex-basis: 355.5px; 
 }
