@@ -2,7 +2,6 @@
   margin: 0 auto;
   padding: 0;
   width: 920px;
-  flex-wrap: wrap;
   z-index: 1;
   display: grid;
   grid-template-columns: repeat(3, 2fr);

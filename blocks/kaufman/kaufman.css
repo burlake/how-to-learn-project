@@ -10,6 +10,5 @@
   position: relative;
   background-color: #1f1f1f;
   overflow: hidden;
-  background-size: contain;
-  z-index: -1;
+  z-index: 0;
 }
