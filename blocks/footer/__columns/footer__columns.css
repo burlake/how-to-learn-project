@@ -5,5 +5,4 @@
   flex-direction: row;
   color: #ffffff;
   justify-content: space-between;
-  grid-template-columns: 3fr 1fr 1fr;
 }
