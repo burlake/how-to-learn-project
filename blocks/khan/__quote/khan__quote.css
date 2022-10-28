@@ -1,6 +1,9 @@
 .khan__quote{
-  margin: 0;
-	padding: 0;
+  display: block;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  margin-left: 0px;
+  margin-right: 0px;
 	border: 0;
   padding-top: 50px;
   line-height: 34px;
