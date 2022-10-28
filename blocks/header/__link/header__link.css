@@ -2,7 +2,8 @@
   text-decoration: none;
   color: #2f80ed;
 }
-  .header__link:hover {
-    color:rgb(255, 255, 255, .5);
-    transition: 1s linear 0.5s;
+
+.header__link:hover {
+  color:rgb(255, 255, 255, .5);
+  transition: 1s linear 0.5s;
 } 

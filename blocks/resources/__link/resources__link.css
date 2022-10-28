@@ -1,9 +1,9 @@
 .resources__link{
-    margin: 0 auto;
-    padding: 0;
+  margin: 0 auto;
+  padding: 0;
 }
-      
-     .resources__link:hover{
-        color:rgb(255, 255, 255, .5);
-        transition: 1s linear 0.5s;
-    }
+
+.resources__link:hover{
+  color:rgb(255, 255, 255, .5);
+  transition: 1s linear 0.5s;
+}
