@@ -8,6 +8,6 @@
   color: #2f80ed;
 }
 .khan__buy-link:hover {
-  color: rgb(7,	128,	237, .5);
+  opacity: .5;
   transition: 1s linear 0.5s;
 } 
