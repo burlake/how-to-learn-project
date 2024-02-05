@@ -2,7 +2,7 @@
 ## <a href="https://burlake.github.io/how-to-learn-project/" target="_blank">Научиться учиться</a>
 
 <p align="center">
-  <img src="./images/Screenshot 2024-02-05 at 22.34.54.png" alt="пример оформления сайта">
+  <img src="./images/Screenshot 2024-02-05 at 22.34.54.png" alt="пример оформления сайта" href="https://burlake.github.io/how-to-learn-project/>
 </p>
 
 ### Первая и вторая проектные работы для курса "Яндекс Практикум".</h3>
